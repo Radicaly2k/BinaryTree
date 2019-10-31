@@ -10,6 +10,7 @@ namespace BinaryTree
 
             BinaryTree bTreeTest = new BinaryTree();
 
+            // Test Operations
             bTreeTest.Insert(1);
             bTreeTest.Insert(3);
             bTreeTest.Insert(30);
